@@ -1,0 +1,55 @@
+body{
+  background-image: url('Immagini/background.jpg');
+  background-size: cover;
+  font-style: italic;
+}
+
+div{
+  background-color: rgba(0,0,0,0.6);
+  border-radius: 25px;
+  padding: 100px 75px 75px;
+  margin: 5% 15% 7%;
+}
+
+img{
+  width: 350px;
+}
+header{
+  text-align: center;
+  color: LimeGreen;
+}
+
+nav{
+  text-align: center;
+  background-color: LimeGreen;
+  padding: 1%;
+}
+
+main{
+  color: white;
+}
+
+h2{
+  display: inline-block;
+}
+span{
+  display: block;
+}
+
+.Gino{
+  border: 20px solid sandybrown; /*Grandezza barra x struttura x colore*/
+  border-radius: 5px; /*Angoli smussati*/
+  margin-right: 81%; /*Margine destro della barra!!, dove 1% sarà la più carica*/
+}
+
+.Mike{
+  border: 20px solid green;
+  border-radius: 5px;
+  margin-right: 50%;
+}
+
+.Fede{
+  border: 20px solid maroon;
+  border-radius: 5px;
+  margin-right: 90%;
+}
